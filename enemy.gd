@@ -1,5 +1,4 @@
 extends Area2D
-class_name Enemy
 
 var velocity = Vector2.ZERO
 
